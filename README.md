@@ -1,0 +1,1 @@
+# Kredit-risk-proqnozu
